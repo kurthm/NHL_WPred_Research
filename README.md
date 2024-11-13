@@ -8,4 +8,4 @@ The purpose of this project is to determine actionable insights as to how profes
 The data used here comes from the NHL event (play-by-play) data from 2018-2019. We use only data from the regular season with the intent to later extend our model to playoffs. The data is too large to upload here, so only manipulation code is provided.
 
 # Code
-Because the main model has been created in R, I do the majority of the project using R code. Data manipulation could certainly be done using Pandas in Python.
+Because the main model has been created in R, I do the majority of the project using R code. The sections are labeled but the format of separation is intended for use within RStudio. Data manipulation could certainly be done using Pandas in Python.
