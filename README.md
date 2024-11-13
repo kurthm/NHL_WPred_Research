@@ -1,4 +1,4 @@
-# NHL_Win_Pred_Research
+# NHL_Win_Prediction_Research
 
 
 # Goal
