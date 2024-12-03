@@ -1,6 +1,5 @@
 library(tidyverse)
 library(ppmSuite)
-#setwd("C:/Users/mokur/OneDrive - Brigham Young University/Fellingham2/Hockey Research/Kaggle_data")
 
 # Prepping Data -----------
 all_data <- read.csv('pbp_w_covar.csv')
